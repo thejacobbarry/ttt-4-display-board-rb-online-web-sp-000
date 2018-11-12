@@ -2,8 +2,6 @@
 
 def board = [" "," "," "," "," "," "," "," "," "]
 
-# out the current state.
-# Would Print:
 puts    |   |   
 puts -----------
 puts    |   |   
