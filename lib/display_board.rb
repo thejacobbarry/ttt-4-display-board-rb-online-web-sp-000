@@ -1,6 +1,6 @@
 # Define display_board that accepts a board and prints
 
-def board = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 
 puts    |   |   
 puts -----------
